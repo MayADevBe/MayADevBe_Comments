@@ -1,2 +1,2 @@
 # MayADevBe Comments
-Integration of comments for my SSG blog https://mayadevbe.me/ with the help of utterances.
+Integration of comments with the help of utterances for my SSG blog powered by Hugo: https://mayadevbe.me/.
